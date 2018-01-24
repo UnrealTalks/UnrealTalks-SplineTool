@@ -5,3 +5,5 @@ UE4 sample project of the spline tool to control a spline mesh
 
 # TODO
 - add comments
+
+https://www.meetup.com/Seattle-Indie-Game-Dev-Workshop/events/vcrxfpyxdbpb/
